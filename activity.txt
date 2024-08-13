@@ -231,3 +231,4 @@ Activity on 2024-05-31T00:00:00 - Fix "data processing" issue
 Activity on 2024-06-25T00:00:00 - chore: Maintenance tasks
 Activity on 2024-07-10T00:00:00 - Add support for "data processing"
 Activity on 2024-07-11T00:00:00 - Improve "logging system" logic
+Activity on 2024-08-13T00:00:00 - docs: Update documentation
